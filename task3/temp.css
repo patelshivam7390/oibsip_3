@@ -1,0 +1,42 @@
+body {
+    margin: 50px 56px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+    margin: 50px 400px;
+    background-color: aqua;
+}
+
+.inputs {
+    /* display: flex; */
+    overflow: hidden;
+    text-align: center;
+}
+
+.in {
+    padding: 5px;
+    margin: 5px;
+    font-size: larger;
+    font-weight: 200;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+label {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(219, 95, 37);
+}
+.btn{
+    background-color: red;
+    border-radius: 14px;
+    margin: 20px;
+    padding:6px;
+}
